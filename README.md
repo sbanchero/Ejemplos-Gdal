@@ -9,3 +9,5 @@ imagen2csv.py
   python imagen2csv.py /path/completo/a/la/imagen /path/completo/al/csv
 
 Requiere: GDAL y Numpy
+
+
